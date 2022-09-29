@@ -1,0 +1,30 @@
+{
+    "name": "Agen5000 Slot Deposit 5000 Via Dana",
+    "theme": "ui",
+    "version": "1.1.2",
+    "description": "Agen5000 - Situs Slot Online Gacor Terpercaya Deposit Via Dana No.1 2022",
+    "keywords": [
+      "agen5000",
+      "agen 5000 login",
+      "agen judi online",
+      " situs slot gacor",
+      "slot deposit 5000"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/insideourheart/12222.git"
+    },
+    "license": "MIT",
+    "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+    },
+    "bugs": {
+      "url": "https://github.com/insideourheart/12222/issues"
+    },
+    "homepage": "https://github.com/insideourheart/12222#readme",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": ""
+  }
